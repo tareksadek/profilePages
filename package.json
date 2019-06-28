@@ -1,7 +1,7 @@
 {
   "name": "profile-pages",
   "version": "1.0.0",
-  "description": "",
+  "description": "profile pages",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,10 +10,14 @@
     "type": "git",
     "url": "git+https://github.com/tareksadek/profilePages.git"
   },
-  "author": "",
+  "author": "Tarek Sadek",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/tareksadek/profilePages/issues"
   },
-  "homepage": "https://github.com/tareksadek/profilePages#readme"
+  "homepage": "https://github.com/tareksadek/profilePages#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.0.2"
+  }
 }
